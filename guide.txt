@@ -1,0 +1,4 @@
+[+] Analysing a database
+[-] example command
+[-] <command> <sub-command> <database-name> <queries>(optional) <--format=> <--threads=> <--output=>
+[-] codeql database analyze .\ovaaDb\ ..\..\codeql-home\codeql-bundle\codeql\qlpacks\codeql\java-queries\0.8.4\Security\CWE\CWE-940\ --format=sarif-latest --threads=0 --output=results.sarif
